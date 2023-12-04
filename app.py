@@ -77,7 +77,8 @@ def main():
             answer = retrieval_answer(text_input)
             st.success(answer)
 
-if __name__== "__main__":
+if __name__ ==  "__main__":
     main()
+
     
 
